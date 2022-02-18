@@ -51,7 +51,7 @@ Thanks to add me 😇**
                        " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/PmPermit"
                     ),
                     InlineKeyboardButton(
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/BotDuniya"
+                        "OWNER", url="https://t.me/BAJRANGDAL_OP_KING"
                     )
                 ],[
                     InlineKeyboardButton(
